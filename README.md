@@ -33,5 +33,13 @@ sourcing channel etc. Thus we were provided with real train and test data sets b
  <p>In hypothesis generation we list down all the possible variables, which might influence problem objective and this should be done before looking at the data sets</p>
  
  <h4>Steps for Data Exploration</h4>
-  <p><i>Reading the data ---> Variable Identification ---> Univariate Analysis ---> Bivariate Analysis ---> Missing Value Treatment ---> Outliers Treatment ---> Variable Transformation</i></p>
+  <p align="center"<i><samp>Reading the data ---> Variable Identification ---> Univariate Analysis ---> Bivariate Analysis ---> Missing Value Treatment ---> Outliers Treatment ---> Variable Transformation</samp></i></p>
+  
+  <h4>Steps of Model Building</h4>
+  <p>☑️ Algorithm Selection</p>
+  <p>As in this problem our dependent variable is continuous therefore I used <i>LOGISTIC REGRESSION ALGORITHM.</i></p>
+  <p>🛠️ Training Model</p>
+  <p>Here we are supposed to learn relationship or correlation between independent & dependent variables.</p>
+  <p>📈 Prediction & Scoring</p>
+  <p>Now is the time to estimate and predict dependent variables of test data set by applying model rules.</p>
   
