@@ -21,3 +21,17 @@ guarantee.
 Now, in order to predict whether the customer would pay the next premium or not, you have information about past 
 premium payment history for the policyholders along with their demographics (age, monthly income, area type) and 
 sourcing channel etc. Thus we were provided with real train and test data sets by Analytics Vidhya team.
+
+<h4>Stages of Predictive Modelling</h4>
+  <p>Here, I followed 5 major steps while building the model:</p>
+  <li>Problem Definition</li>
+   <li>Hypothesis generation</li>
+    <li>Data Extraction / Collection</li>
+     <li>Data Exploration and Transformation</li>
+      <li>Model Deployment and Implementation</li><br>
+      
+ <p>In hypothesis generation we list down all the possible variables, which might influence problem objective and this should be done before looking at the data sets</p>
+ 
+ <h4>Steps for Data Exploration</h4>
+  <p><i>Reading the data ---> Variable Identification ---> Univariate Analysis ---> Bivariate Analysis ---> Missing Value Treatment ---> Outliers Treatment ---> Variable Transformation</i></p>
+  
