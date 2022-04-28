@@ -43,3 +43,12 @@ sourcing channel etc. Thus we were provided with real train and test data sets b
   <h5>📈 Prediction & Scoring</h5>
   <p>Now is the time to estimate and predict dependent variables of test data set by applying model rules.</p>
   
+  ### Solution
+  <p>After training the AUC-ROC score of provided data set came out to be <i>0.76 or 76%</i>.</p>
+  
+  ### Tools & Technologies
+  <p>To build the model I have used: PYTHON , Statistics & Concepts of Machine Learning</p>
+  <p>Libraries: Pandas, Matplotlib, scikit-learn</p>
+  <p>Software: Jupyter</p>
+  
+  <i>** You can check the solution file in the code description.</i>
