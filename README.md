@@ -36,10 +36,10 @@ sourcing channel etc. Thus we were provided with real train and test data sets b
   <p align="center"<i><samp>Reading the data ---> Variable Identification ---> Univariate Analysis ---> Bivariate Analysis ---> Missing Value Treatment ---> Outliers Treatment ---> Variable Transformation</samp></i></p>
   
   <h4>Steps of Model Building</h4>
-  <p>☑️ Algorithm Selection</p>
+  <h5>☑️ Algorithm Selection</h5>
   <p>As in this problem our dependent variable is continuous therefore I used <i>LOGISTIC REGRESSION ALGORITHM.</i></p>
-  <p>🛠️ Training Model</p>
+  <h5>🛠️ Training Model</h5>
   <p>Here we are supposed to learn relationship or correlation between independent & dependent variables.</p>
-  <p>📈 Prediction & Scoring</p>
+  <h5>📈 Prediction & Scoring</h5>
   <p>Now is the time to estimate and predict dependent variables of test data set by applying model rules.</p>
   
